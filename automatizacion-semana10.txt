@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+El registro exitoso de un nuevo reporte ciudadano en la base de datos o formulario de la plataforma participativa.
+
+¿Qué mensaje se enviaría a Telegram?
+"Alerta: Se ha registrado un nuevo reporte comunitario en el sistema. Por favor, ingrese al panel de administración para validar la información y asignarle una ruta de seguimiento."
+
+¿Qué información no debería enviarse por seguridad?
+Por estrictas políticas de privacidad y seguridad operativa, jamás deben enviarse en el cuerpo del mensaje: nombres completos de los denunciantes, documentos de identidad, direcciones residenciales exactas, números telefónicos de contacto, contraseñas, tokens ni claves de API del servidor.

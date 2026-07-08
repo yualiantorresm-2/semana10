@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Registro de incidencias por parte del ciudadano.
+2. Consulta de reportes históricos por los miembros del equipo.
+
+¿Por qué son las más importantes?
+Porque constituyen la base operativa del sistema. Sin la capacidad de capturar incidencias y sin un entorno donde el equipo pueda visualizar los datos históricos para auditar, no existiría información base que procesar, notificar o automatizar a través de otros canales.
+
+Definición de "Terminado" (Definition of Done):
+Una tarea se considera completamente terminada cuando cumple los siguientes 3 criterios:
+1. Funciona correctamente en el entorno local/producción y pasa las pruebas de integración.
+2. El código fuente ha sido revisado, limpiado de credenciales y no presenta fugas de información.
+3. Los cambios fueron registrados, commiteados con un mensaje descriptivo y subidos exitosamente a Git.
